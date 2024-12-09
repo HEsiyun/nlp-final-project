@@ -12,7 +12,8 @@ These implementations are identical except for differences in hyperparameter set
 ***BitLinear_Bert.ipynb:*** The implementation of BitLineared BERT model with batch size = 64, learning rate = 2e-5, and epochs = 3. <br>
 ***BitLinear_Bert_batch32.ipynb:*** The implementation of BitLineared BERT model with batch size = 32, learning rate = 2e-5, and epochs = 3. <br>
 These implementations are identical except for differences in hyperparameter settings. All files are retained to observe the results under various configurations.
-
+## Data preprocess
+***data_preprocess:*** The data preprocessing steps. <br>
 ## References
 [1] J. Brownlee, “Sequence Classification with LSTM recurrent neural networks in python with keras,” MachineLearningMastery.com, https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/ <br>
 [2]  “Sentiment analysis with Bert and transformers by hugging face using pytorch and python,” Curiousily, https://curiousily.com/posts/sentiment-analysis-with-bert-and-hugging-face-using-pytorch-and-python/ <br>
